@@ -2,7 +2,7 @@
 App web que mostra o clima na localização que for selecionada.
 
 ## Opções
-- Busca por locação (cidade ou estado)
+- Busca por localização (cidade ou estado)
 
 ## Demostração
 - https://felipeholanda-r.github.io/app-tempo/
