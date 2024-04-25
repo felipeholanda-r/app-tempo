@@ -1,7 +1,7 @@
 # APP TEMPO
 App web que mostra o clima na localização que for selecionada.
 
-## Opções
+## Recursos
 - Busca por localização (cidade ou estado)
 
 ## Demostração
